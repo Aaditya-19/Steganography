@@ -1,4 +1,4 @@
-Image Steganography - Hide Secret Messages in Images
+Secure Data Hiding in Images Using Steganography
 
 Overview
 
